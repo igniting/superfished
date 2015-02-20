@@ -1,0 +1,18 @@
+body {
+  font-size: 16px;
+  color: #222;
+}
+
+.title {
+  font-size: 48px;
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+
+.intro {
+  font-size: 20px;
+}
+
+.small-text {
+  font-size: 14px;
+}
